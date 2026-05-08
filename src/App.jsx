@@ -7,7 +7,7 @@ import { TodoProvider } from './contexts'
 import TodoItem from './components/TodoItem'
 import TodoForm from './components/TodoForm'
 
-////todo applicationn
+
 
 function App() {
   const [todos, setTodos] = useState([])
