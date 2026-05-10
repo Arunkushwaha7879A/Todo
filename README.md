@@ -66,7 +66,7 @@ src/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 Clone the repository:
 
@@ -94,7 +94,7 @@ npm run dev
 
 ---
 
-# 🧠 Context API Usage
+#  Context API Usage
 
 The application uses React Context API to manage global todo state.
 
@@ -109,7 +109,7 @@ This helps avoid prop drilling and keeps state management clean and scalable.
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 Add your project screenshots here.
 
@@ -119,7 +119,7 @@ Add your project screenshots here.
 
 ---
 
-# 🔥 Future Improvements
+#  Future Improvements
 
 * Add local storage support
 * Add dark mode
@@ -129,7 +129,7 @@ Add your project screenshots here.
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome.
 
@@ -139,15 +139,4 @@ Contributions are welcome.
 4. Push to the branch
 5. Open a Pull Request
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-Made with ❤️ using React and Context API.
 

@@ -4,12 +4,15 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
 import { TodoProvider } from './contexts'
-import TodoItem from './components/TodoItem'
 import TodoForm from './components/TodoForm'
+import TodoItem from './components/TodoItem'
+
 
 
 
 function App() {
+
+
   const [todos, setTodos] = useState([])
 
   const addTodo = (todo) =>{
