@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Currently  two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
@@ -24,7 +24,7 @@ A simple and responsive Todo Application built using **React** and **Context API
 
 ---
 
-# 🚀 Features
+#  Features
 
 * Add new todos
 * Edit existing todos
@@ -107,17 +107,6 @@ The application uses React Context API to manage global todo state.
 
 This helps avoid prop drilling and keeps state management clean and scalable.
 
----
-
-#  Screenshots
-
-Add your project screenshots here.
-
-```bash
-/assets/screenshot.png
-```
-
----
 
 #  Future Improvements
 
