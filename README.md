@@ -122,10 +122,10 @@ This helps avoid prop drilling and keeps state management clean and scalable.
 
 Contributions are welcome.
 
-1. Fork the repository
+<!-- 1. Fork the repository
 2. Create your feature branch
 3. Commit your changes
 4. Push to the branch
-5. Open a Pull Request
+5. Open a Pull Request -->
 
 

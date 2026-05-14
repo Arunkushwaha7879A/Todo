@@ -5,14 +5,6 @@ import heroImg from './assets/hero.png'
  
 
 
-
-//////import { useEffect, useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from './assets/vite.svg'
-// import heroImg from './assets/hero.png'
-
-
-
 function App() {
 
 
@@ -70,3 +62,14 @@ function App() {
 export default App
   
 
+
+
+
+
+// >
+//     </TodoProvider>
+//   )
+// }
+
+// export default App
+  
